@@ -1,0 +1,42 @@
+.join {}
+
+.join-container {
+    border-radius: 32px;
+    width: 968px;
+    height: 345px;
+    background: #02897a;
+    display: flex;
+    padding: 4px 41px 10px 56px;
+
+}
+
+.join-container-text {
+    padding-top: 45px;
+    padding-bottom: 46px;
+}
+
+.join-title {
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 1.514;
+    color: #fff;
+    width: 510px;
+    margin-bottom: 46px;
+}
+
+.join-image {
+    border-radius: 5px;
+    width: 351px;
+    height: 331px;
+    box-shadow: 0 0 32px 0 rgba(0, 0, 0, 0.15);
+}
+
+.bottom-join {
+    border-radius: 8px;
+    min-width: 150px;
+    height: 50px;
+    background-color: #fff;
+    font-weight: 600;
+    font-size: 20px;
+    color: #02897a;
+}
